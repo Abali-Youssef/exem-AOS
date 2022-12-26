@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../ex/common-api/common-api.iml" filepath="$PROJECT_DIR$/../../ex/common-api/common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ex/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/../../ex/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ex/eureka-discovery-service/eureka-discovery-service.iml" filepath="$PROJECT_DIR$/../../ex/eureka-discovery-service/eureka-discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam.iml" filepath="$PROJECT_DIR$/exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ex/gateway/gateway.iml" filepath="$PROJECT_DIR$/../../ex/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ex/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/../../ex/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ex/order-service/order-service.iml" filepath="$PROJECT_DIR$/../../ex/order-service/order-service.iml" />
+    </modules>
+  </component>
+</project>
